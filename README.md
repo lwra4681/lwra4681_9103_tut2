@@ -1,6 +1,6 @@
 ### lwra4681_9103_tut2
 
-# Summary:
+# Quiz 8: Summary:
 The assignment task discussed here can be summarized as art appropriation using digital techniques to create an immersive experience.
 
 Note the functions in p5_project aren't relevant to the imaging techniques discuessed here.
