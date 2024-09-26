@@ -3,6 +3,8 @@
 # Summary:
 The assignment task discussed here can be summarized as art appropriation using digital techniques to create an immersive experience.
 
+Note the functions in p5_project aren't relevant to the imaging techniques discuessed here.
+
 ## Part 1: Imaging Techniques
 
 An imaging technique I find inspiring is **Flow Fields**, as I'm interested in implementing it on 'The Scream' by Edvard Munch.
